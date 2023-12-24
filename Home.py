@@ -1,7 +1,7 @@
 ##© 2023 Tushar Aggarwal. All rights reserved.
 ##Stats-Mosaic-Streamlit
 #######################################################################################################
-# Full length is above 1500 lines and is avalibale when you buy me a beer! (https://www.buymeacoffee.com/taggdata)
+# Full length is above 1500 lines and is avalibale when you buy me a beer! ==>>(https://www.buymeacoffee.com/taggdata)
 #######################################################################################################
 #Importind required libraries
 #######################################################################################################
