@@ -24,28 +24,6 @@ Stats Mosaic is a professional Streamlit application designed to help users expl
 - **Customization:** Tailor the visuals to your needs by adjusting parameters and exploring different aspects of the data.
 - **User-Friendly Interface:** A user-friendly interface ensures that users can navigate the application effortlessly.
 
-## Usage
-
-1. **Installation:**
-   - Clone this repository:
-     ```shell
-     git clone https://github.com/tushar2704/stats-mosaic.git
-     cd stats-mosaic
-     ```
-   - Install the required packages:
-     ```shell
-     pip install -r requirements.txt
-     ```
-
-2. **Running the Application:**
-   - Run the Streamlit app:
-     ```shell
-     streamlit run app.py
-     ```
-
-3. **Exploring Statistical Topics:**
-   - Open your web browser and navigate to the provided local or remote URL (usually http://localhost:8501).
-   - Use the sidebar menu to select different statistical topics and explore the visuals.
 
 
 
