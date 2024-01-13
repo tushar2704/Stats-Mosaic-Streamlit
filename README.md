@@ -16,6 +16,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Stats Mosaic is a professional Streamlit application designed to help users explore and visualize important statistical topics with interactive and informative visuals. Whether you're a data enthusiast, student, or professional, Stats Mosaic provides a comprehensive overview of various statistical concepts.
+![Screenshot 2024-01-13 191931](https://github.com/tushar2704/Stats-Mosaic-Streamlit/assets/66141195/94acbf6b-e700-4ecd-8e27-5c3d3332249c)
 
 ## Features
 
