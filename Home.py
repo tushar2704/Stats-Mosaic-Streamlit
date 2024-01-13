@@ -1,9 +1,9 @@
-##© 2023 Tushar Aggarwal. All rights reserved.
+##© 2024 Tushar Aggarwal. All rights reserved.
 ##Stats-Mosaic-Streamlit
 #######################################################################################################
 # Full length is above 2500 lines and is avalibale when you buy me a beer! ==>>(https://www.buymeacoffee.com/taggdata)
 #######################################################################################################
-#Importind required libraries
+#Importing required libraries
 #######################################################################################################
 import streamlit as st
 from pathlib import Path
